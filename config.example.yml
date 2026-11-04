@@ -1,0 +1,7 @@
+# Copy to config.yml and edit, or let notebooks/run_me.ipynb generate one.
+# Required
+input_dir:  example/input
+output_dir: example/output
+# Optional — add your pipeline's knobs here with sane defaults, e.g.
+# threads: 4
+# min_quality: 20

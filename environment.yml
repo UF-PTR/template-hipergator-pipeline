@@ -1,0 +1,11 @@
+name: PIPELINE-NAME-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pyyaml=6.0.2
+  - ipykernel=6.29.5
+  # add pinned tools below, e.g.
+  # - samtools=1.21
+  # - r-base=4.4
