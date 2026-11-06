@@ -7,6 +7,9 @@
 **Maintainer:** Your Name (you@ufl.edu)
 **Paper:** (DOI once available)
 
+> [!CAUTION]
+> **🚫 NO PHI OR IDENTIFIABLE DATA.** This repo holds code only. Real data stays in UF-approved storage; `data/` is for a small de-identified example at most. See the [UF-PTR data policy](https://github.com/UF-PTR#-no-phi-or-identifiable-data--ever).
+
 ## I want to run it
 
 No terminal needed. Open [HiPerGator OnDemand](https://ondemand.rc.ufl.edu), start a Jupyter session, open `notebooks/run_me.ipynb`, fill in the three lines in the first cell, **Run All**. You'll get an email when it finishes.
